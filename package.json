@@ -30,6 +30,10 @@
     "@fortawesome/fontawesome-svg-core": "^6.7.1",
     "@fortawesome/free-solid-svg-icons": "^6.7.1",
     "express": "^4.21.1"
-  }
+  },
+  "keywords": [
+    "node",
+    "glitch"
+  ]
 
 }
